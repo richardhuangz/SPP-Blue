@@ -1,0 +1,5 @@
+colors[] before reverseColors() = R G B Y 
+colors[] after  reverseColors() = R G B Y 
+result[] after  reverseColors() = Y B G R 
+colors[] before reverseColors2() = R G B Y 
+colors[] after  reverseColors2() = R G B Y 
